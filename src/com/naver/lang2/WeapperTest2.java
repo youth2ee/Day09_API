@@ -55,11 +55,8 @@ public class WeapperTest2 {
 		System.out.println("빈칸   개수 : "+m4);
 		
 		System.out.println("add print");
-		
-		
-		
-		
-		
+		System.out.println("play");
+		System.out.println("good");
 		
 
 	}
